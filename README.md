@@ -1,1 +1,1 @@
-# harrix.dev-blog-2022
+# harrix.dev-articles-2022
